@@ -9,3 +9,7 @@ The Slocode Foundation is a group of developers who are passionate about open so
 ## Documentation
 
 Our documentation is hosted on [Read the Docs](https://slocode-foundation.readthedocs.io/en/latest/).
+
+## Donations
+
+If you would like to support my work, you can donate to me using bitcoin. My wallet address is `bc1qccy23gajjnz08m8zup8xuw6xpm37memk79hmsv`, and my QR code is below.
