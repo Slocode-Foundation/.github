@@ -8,7 +8,7 @@ The Slocode Foundation is a group of developers who are passionate about open so
 
 ## Documentation
 
-Our documentation is hosted on [Read the Docs](https://slocode-foundation.readthedocs.io/en/latest/).
+Our documentation is hosted [here](https://slocode-foundation.github.io/slodocs/).
 
 ## Donations
 
